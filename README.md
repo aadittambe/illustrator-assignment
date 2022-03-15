@@ -1,1 +1,1 @@
-# illustrator-assignment
+# A simple Illustrator graphic, exported as HTML
